@@ -1,0 +1,7 @@
+mytext=<p align='justify'><b>PORTFOLIO
+Fern Owls</b><br>Garage with Lantern Tower
+Photographs
+ • House extension and new garage with lantern tower
+ • Front view of new garage with oak frame
+ • Lantern Tower
+</p>

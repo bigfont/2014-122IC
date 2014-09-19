@@ -1,0 +1,4 @@
+mytext=<p align='justify'><b>PORTFOLIO
+Fern Owls</b><br>Gates
+These gates are designed and made entirely from Dried Oak (including the hinges). The inspiration for the design came from a Door Leaf at Westminster Cathedral.
+</p>

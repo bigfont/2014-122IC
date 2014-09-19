@@ -1,0 +1,6 @@
+mytext=<p align='justify'><b>PORTFOLIO
+Thorsby Hall</b><br>Nottinghamshire, 2000.
+This was a project to renovate a Grade 1 listed stately home into a hotel. The major considerations in this project was the conservation and restoration of existing features and the production of new structures which were sympathetically designed and traditionally produced to marry with older features.
+Four cowls were designed and produced from an architectural concept. They were inspired by images of bats ears derived from existing architectural detailing, within the main building, which related to bats.
+The cowls have laminated wooden forms bent into curved shapes which are lead-coated with anodised aluminium louvres.
+</p>

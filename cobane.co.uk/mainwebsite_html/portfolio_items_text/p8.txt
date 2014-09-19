@@ -1,0 +1,10 @@
+mytext=<p align='justify'><b>PORTFOLIO
+Furniture
+Dining Chairs 1990</b>
+One off exhibition pieces produced in anodised aluminium and sycamore. The design for these was inspired by traditional carpentry skills including pegged mortice and tenon joints. I applied these skills to join the aluminium and sycamore together.
+<b>Radiator Chair 1990</b>
+An exhibition piece produced using copper and steel piping. A fully operational %60radiator%B4 designed to illustrate that radiators don%27t have to be flat and white.
+<b>Dining table and chairs 2005</b>
+One off design and manufacturing brief for an arts and crafts home.
+Made from walnut and beech.
+</p>

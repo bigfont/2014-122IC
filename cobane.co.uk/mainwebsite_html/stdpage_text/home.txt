@@ -1,0 +1,5 @@
+mytext=<img src='images/cobane_logo.jpg' height='35' width='182' align='left'><br><br>
+<p align='justify'>We are a company, proud to offer you years of experienced craftsmanship in the production of wood and metal structures, for both domestic and commercial environments. We specialise in the design and manufacture of green-oak framed buildings and the creation of fine pieces of furniture.
+Traditional skills are used to construct houses, office spaces, sun-rooms, garages, extensions, summer houses etc. Whatever you want; we can do.
+Our skills are used to produce traditional styles to marry with existing features, to produce an eclectic mix of traditional and contemporary or to create a totally modern image. We apply our full design service to all our constructions, whether it%27s producing extra living space or interior or exterior wood work. Our carpentry skills can be applied to the production of bespoke doors, handrails, staircases, furniture and kitchens using the same solid wood traditions we apply to our buildings. We will produce pieces sympathetically, to your requirements, using time honoured traditions combined with 21st Century technology.
+</p>

@@ -1,0 +1,3 @@
+mytext=<p align='justify'><b>MATERIALS</b>
+We pride ourselves on our environmental awareness, our emphasis is on using eco-friendly materials and timber from sustainable forests wherever possible. We source materials from around the world to meet individual clients needs, hand selecting timber for each project.
+</p>

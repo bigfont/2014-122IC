@@ -1,0 +1,3 @@
+mytext=<p align='justify'><b>PORTFOLIO</b>
+Please click on images for information about each of the projects, and to view additional larger images.
+</p>

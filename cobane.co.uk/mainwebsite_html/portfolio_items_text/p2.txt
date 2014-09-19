@@ -1,0 +1,5 @@
+mytext=<p align='justify'><b>PORTFOLIO<br>
+Green Oak Framed Home</b><br>Aylesbury, Buckinghampshire<br>
+The brief was to design and construct a home as it would have been done a few hundred years ago.<br>
+The Oak was sourced localy and from France to find all the curves for the Crucks, cranked tie beams serpentine bracing and wainy edged studs to produce whatwe believe is a truly unique structure to last into the next millenium.
+</p>
